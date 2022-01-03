@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Final Year Project**
 
-- 🌱 I’m currently learning **React Node.js Redux Express Mongodb Python**
+- 🌱 I’m currently learning **Flutter & Dart**
 
 - 💬 Ask me about **react , node.js python ,**
 
