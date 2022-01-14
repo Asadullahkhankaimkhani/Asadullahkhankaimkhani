@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/axadk15" target="blank"><img src="https://img.shields.io/twitter/follow/axadk15?logo=twitter&style=for-the-badge" alt="axadk15" /></a> </p>
 
-- 🔭 I’m currently working on **Final Year Project**
+- 🔭 I’m currently working on **None**
 
 - 🌱 I’m currently learning **Flutter & Dart**
 
