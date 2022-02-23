@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **None**
 
-- 🌱 I’m currently learning **Flutter & Dart**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **react , node.js python ,**
 
